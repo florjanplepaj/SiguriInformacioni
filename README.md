@@ -24,7 +24,7 @@ Programe te tjera open-source që mund te gjinden dhe aplikohen në Mjeksi:
 #
 
 Referenca
-GitHub 
-https://github.com/earthians/marley/blob/develop/README.md
-https://en.wikipedia.org/wiki/List_of_open-source_health_software#Specifications
-Dokumentacioni i ChatGPT
+GitHub   
+https://github.com/earthians/marley/blob/develop/README.md  
+https://en.wikipedia.org/wiki/List_of_open-source_health_software#Specifications  
+Dokumentacioni i ChatGPT  
