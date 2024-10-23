@@ -1,7 +1,7 @@
-## Përdorimi i GitHub në Sistemet e Informacionit Shëndetësor
+# Përdorimi i GitHub në Sistemet e Informacionit Shëndetësor
 GitHub është një platformë e fuqishme për menaxhimin e kodit burimor që aplikohet në sektorin shëndetësor, kryesisht gjatë zhvillimit të softuerëve që përdoren për menaxhimin e sistemeve shëndetësore. Përmes versionimit të projekteve dhe dokumentimit të proceseve, GitHub ndihmon zhvilluesit në krijimin e aplikacioneve të sigurta dhe të qëndrueshme.
 
-# Përdorimi i GitHub në Mjekësi
+## Përdorimi i GitHub në Mjekësi
 - **Bashkëpunimi:**
 GitHub lejon zhvillues të tjerë nga spitale ose organizata të ndryshme të kontribuojnë në përmirësimin e aplikacionit. Krijimi i Pull Requests me kod të ri në GitHub për propozime funksionesh ose raportimin e defekteve është mjaft i lehtë.
 
