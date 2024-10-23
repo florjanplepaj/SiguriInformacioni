@@ -14,6 +14,17 @@ GitHub ndjek ndryshimet e bëra në bazën e kodit, duke lejuar ekipet të menax
 ## Kufizimet dhe Siguria
 Megjithatë, është e rëndësishme të theksohet se informacionet e ndjeshme të pacientëve mund të përdoren në një kapacitet të kufizuar me GitHub. GitHub nuk ofron nivelin e sigurisë të kërkuar për informacionet e pacientëve, ashtu siç bëjnë Sistemet e Informacionit Shëndetësor (HIS) dhe PACS, të cilat përmbushin kërkesat për përputhshmëri rregullatore të nevojshme për privatësinë dhe sigurinë e informacionit shëndetësor.
 
+Programe te tjera open-source që mund te gjinden dhe aplikohen në Mjeksi: 
+1. **ClearHealth**
+2. **OpenMRS**
+3. **GNU Health**
+4. **OpenEMR**
+5. **Bahmni**
+
+#
+
 Referenca
+GitHub 
+https://github.com/earthians/marley/blob/develop/README.md
+https://en.wikipedia.org/wiki/List_of_open-source_health_software#Specifications
 Dokumentacioni i ChatGPT
-GitHub - Wikipedia
